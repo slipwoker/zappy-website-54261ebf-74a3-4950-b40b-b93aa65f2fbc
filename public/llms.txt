@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו את החבילה המושלמת לטיפול ומניעת סרטן הורמונלי: I3C, AHCC וסידן-די-גלוקראט. אלטרנטיבה טבעית לטמוקסיפן עם מנגנון פעולה מוכח למניעת הישנות.
+
+### תוספים
+https://example.com/supplements
+I3C, AHCC 750 מ״ג וסידן-די-גלוקראט - שלושת התוספים החיוניים למניעה וטיפול בסרטן הורמונלי. כל תוסף עם מנגנון פעולה ייחודי ומשלים. הזמינו עכשיו!
+
+### מנגנון
+https://example.com/mechanism
+הבינו את מנגנון הפעולה המדעי של החבילה הטיפולית: כיצד AHCC מחזק חיסון, I3C מאזן הורמונים וסידן-די-גלוקראט מסלק רעלים. מידע מבוסס מחקר למניעה יעילה.
+
+### צור קשר
+https://example.com/contact
+קבלו ייעוץ מקצועי והתאמה אישית של חבילת התוספים AHCC, I3C וסידן-די-גלוקראט. צוות מומחים זמין לכל שאלה בנושא טיפול ומניעת הישנות. צרו קשר היום!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
